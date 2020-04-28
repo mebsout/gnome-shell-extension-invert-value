@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schemalist gettext-domain="gnome-shell-extensions">
+	<schema path="/org/gnome/shell/extensions/invert-value/" id="org.gnome.shell.extensions.invert-value">
+		<key type="as" name="invert-value-shortcut">
+			<default><![CDATA[['<Super>U']]]></default>
+		</key>
+	</schema>
+</schemalist>
+
